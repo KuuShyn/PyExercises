@@ -19,7 +19,7 @@ print("The octal representation is", octalString)
 # decToOct = int(input('Enter a decimal Integer: '))
 # print(oct(decToOct).replace('0o', ""))
 
-#===================================================================#
+#==================================================================#
 
 #Octal to Decimal
 octal = input("\nEnter a string of octal digits: ")
