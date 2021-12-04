@@ -14,6 +14,7 @@ while decimal > 0:
     octalString = str(remainder) + octalString
     print("%5d%8d%12s" % (decimal, remainder, octalString))   
 print("The octal representation is", octalString)
+
 # Or a better way
 # decToOct = int(input('Enter a decimal Integer: '))
 # print(oct(decToOct).replace('0o', ""))
