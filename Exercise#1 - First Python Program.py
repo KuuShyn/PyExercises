@@ -1,6 +1,5 @@
 #King Aj Magalona
 #v1.2
-#Second Attempt hehehe forgot age = "int"(input)...
 userName = (input("Enter username: "))
 age = int(input("Enter your age: "))
 firstNumber = int(input("Enter the first number: ")) 
