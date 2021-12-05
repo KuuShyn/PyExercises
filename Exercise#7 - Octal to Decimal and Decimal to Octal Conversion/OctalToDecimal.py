@@ -1,5 +1,5 @@
 #Octal to Decimal
-octal = input("\nEnter a string of octal digits: ")
+octal = input("Enter a string of octal digits: ")
 deciVal = 0 
 base = 1
   
