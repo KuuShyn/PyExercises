@@ -8,7 +8,7 @@ while octal:
     octal = int(octal) / 10
     deciVal += digit * base
     base = base * 8
-print("The decimal value is", deciVal)
+print("The integer value is", deciVal)
 
 # One line solution hehe   
 # print(int(input('Enter a string of octal digits: '), 8))    
