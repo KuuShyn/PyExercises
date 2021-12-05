@@ -14,4 +14,4 @@ while decimal > 0:
     octalString = str(remainder) + octalString
     print('%5d%8d%12s' % (decimal, remainder, octalString))   
 print("The octal representation is", octalString)
-#King Aj Magalona
+#King Aj Magalona 
