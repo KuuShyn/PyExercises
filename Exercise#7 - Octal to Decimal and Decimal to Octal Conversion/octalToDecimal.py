@@ -11,6 +11,6 @@ while octal:
 print("The integer value is", deciVal)
 
 # One line solution hehe   
-# print(int(input('Enter a string of octal digits: '), 8))    
+# print("The integer value is",int(input('Enter a string of octal digits: '), 8))   
 
 #King Aj Magalona  
